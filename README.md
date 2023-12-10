@@ -26,17 +26,21 @@ As I continue to grow in the dynamic field of data analysis, I am excited to tak
  * Overview :![Screenshot 2023-12-09 173216](https://github.com/kh984mo/Data-Analyst-Portfolio/assets/87992646/8ca4f5c4-ac91-437a-926d-9f1644f967d8)
 
 [Project 3] : **Pizza Sales DashBoard**
-* Description :
- * Dataset :  
+* Description :Pizza Sales Dashboard highlights top and bottom performers in revenue, orders, and quantity sold. It simplifies data for quick insights, aiding better decisions in the pizza business. 
  * Tools used :PowerBI
  * Overview :![Screenshot 2023-12-09 222628](https://github.com/kh984mo/Data-Analyst-Portfolio/assets/87992646/1622b20c-b375-4f16-9196-8bcb2bd46892)
    ![Screenshot 2023-12-09 222648](https://github.com/kh984mo/Data-Analyst-Portfolio/assets/87992646/5ac84517-bb7a-475c-9fbc-995d0805ddbf)
 
 
-[Project 4] : **Pizza Sales DashBoard**
-* Description :
- * Dataset :  
+[Project 4] : **Ecommerce Sales Dashboard**
+* Description :—	Dynamic Power BI dashboard showcasing monthly profits, helping identify trends and areas for business growth. Interactive visuals reveal top-performing product categories and customer preferences, enhancing strategic decision-making in e-commerce sales.
  * Tools used :PowerBI
- * Overview :![Screenshot 2023-12-09 222628](https://github.com/kh984mo/Data-Analyst-Portfolio/assets/87992646/1622b20c-b375-4f16-9196-8bcb2bd46892)
-   ![Screenshot 2023-12-09 222648](https://github.com/kh984mo/Data-Analyst-Portfolio/assets/87992646/5ac84517-bb7a-475c-9fbc-995d0805ddbf)
+ * Overview :![Screenshot 2023-12-10 000236](https://github.com/kh984mo/Data-Analyst-Portfolio/assets/87992646/18668dfe-28d7-4842-8dad-73997a4fe9da)
 
+
+## Certificates
+
+1. Google Data Analytics Capstone: Complete a Case Study - [Issued by Coursera](https://drive.google.com/file/d/1cYaCktntNNgC2ku_T7NMDYaWjF1RZ-GV/view?usp=sharing)
+2. Python For Data Science - [Issued by NPTEL](https://drive.google.com/file/d/18ngEathfYwm8qShdX0cxoWga7023qOr9/view?usp=sharing)
+3. Excel Skills Virtual Experience Program - [Issued by Forage](https://drive.google.com/file/d/1nfzK2kVFIuF2nUgGlHvEzDJQm6JyROms/view?usp=sharing)
+4. SQL -[Issued by SoloLearn](https://drive.google.com/file/d/1wpjJKpCbZ3KDk5jVUQtxftL6cHb6ub_D/view?usp=sharing)
